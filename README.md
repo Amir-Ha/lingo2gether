@@ -1,5 +1,8 @@
 # Excellenteam-Hackathon
-Lingo2gether - A telegram bot that interacts with the user in order to teach them English by asking questions in Hebrew,
+This project was built in 24 hours by a team consisting of: Baraa, Malek and Amir during the Hackathon in ExcellenTeam training bootcamp.
+
+# Lingo2gether -
+A telegram bot that interacts with the user in order to teach them English by asking questions in Hebrew,
 randomly changing words to English, giving the user an opporunity to solve quizes and presenting vocabulary of words.
 
 # Requirements

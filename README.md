@@ -1,5 +1,6 @@
 # Excellenteam-Hackathon
-Lingo2gether
+Lingo2gether - A telegram bot that interacts with the user in order to teach them English by asking questions in Hebrew,
+randomly changing words to English, giving the user an opporunity to solve quizes and presenting vocabulary of words.
 
 # Requirements
 python 3.7
